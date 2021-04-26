@@ -2,7 +2,7 @@
 Lets us take a break from using the PC continuously
 
 
-##Install
+## Install
 
 Clone this repository using the command
 
@@ -10,9 +10,9 @@ Clone this repository using the command
 
 or download the **[zip file](https://github.com/akhileshkoti/Windows-Screentime-Scheduler/archive/refs/heads/main.zip).**
 
-##Usage
+## Usage
 
-###Input the Schedule
+### Input the Schedule
 
 - Run the **input-schedule.py** file that prompts to enter the no. of continuous working hours and no. of minutes of break.
 
