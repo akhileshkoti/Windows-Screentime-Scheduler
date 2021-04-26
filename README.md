@@ -1,6 +1,7 @@
 # Windows-Screentime-Scheduler
 Lets us take a break from using the PC continuously
 
+**[Demo Video](https://youtu.be/Jmed_zpeglE)**
 
 ## Install
 
@@ -28,3 +29,5 @@ or download the **[zip file](https://github.com/akhileshkoti/Windows-Screentime-
 
 - If you want to stop the scheduled break then you have to run the kill code **kill.py**.
 -  This will terminate the process initiated by **startup.bat**.
+
+**[Demo Video](https://youtu.be/Jmed_zpeglE)**
