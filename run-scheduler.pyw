@@ -29,12 +29,12 @@ while(True):
     days,hours=divmod(hours,24)                 #get hours
     #print(hours,mins,sec,sep=":")
     if(hours_prev+h==hours):
-        mins_prev+=h
+        hours_prev+=h
         toast.show_toast(alert,msg,duration=5)
-        print('Screen locked time:',mins)
+        #print('Screen locked time:',mins)
         for i in range(m*60):
             ctypes.windll.user32.LockWorkStation()
             sleep(1)
         toast.show_toast(alert1,msg1,duration=5)
-        print('Screen Unlocked time:',mins)
+        #print('Screen Unlocked time:',mins)
         
